@@ -1,0 +1,18 @@
+.details {
+    margin: 2rem 0;
+}
+
+.title {
+    font-size: 34px;
+    margin: 0 0 1rem;
+    text-align: center;
+}
+
+.subheading {
+    margin: 0 0 4rem;
+    text-align: center;
+}
+
+.body {
+    margin: 0 0 5rem;
+}
